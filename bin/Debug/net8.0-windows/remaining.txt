@@ -1,3 +1,7 @@
+{"date":"27/09/24","teacherCode":"HW","assignmentCode":"ASCW02","assignmentText":"Simultaneous Equations"}
+{"date":"27/09/24","teacherCode":"EF","assignmentCode":"ASCW11","assignmentText":"Solving Trigonometric Equation"}
+{"date":"04/10/24","teacherCode":"HW","assignmentCode":"ASCW05","assignmentText":"Coordinate Geometry"}
+{"date":"04/10/24","teacherCode":"EF","assignmentCode":"ASCW12","assignmentText":"Trigonometric Identities"}
 {"date":"11/10/24","teacherCode":"HW","assignmentCode":"ASCW06","assignmentText":"Circle Geometry"}
 {"date":"11/10/24","teacherCode":"EF","assignmentCode":"ASCW07","assignmentText":"Representing Data"}
 {"date":"18/10/24","teacherCode":"HW","assignmentCode":"ASCW15","assignmentText":"Vectors and Forces"}
