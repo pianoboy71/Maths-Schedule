@@ -14,6 +14,10 @@ I created a label at the bottom of the window to show you which assignment is ne
 Scroll through the assignments on the left until you find the assignment you completed, then click it to confirm completion
 If you clicked on the wrong one, then click on it in the completed list on the right, and confirm you want to un-complete it.
 If the label at the bottom doesn't show entirely at the bottom of the window, you can resize the window or maximise it and you will see it fully; it doesn't default to maximised.
+
+
+
+
 # What if I get stuck or have any questions?
 Feel free to create an issue on here and I will try to keep on top of them all, but I might now be able to get to them all instantly.
 If I don't see it in a reasonable amount of time, feel free to send me an email on my personal or college account, or ask me in person if you see me.
