@@ -1,0 +1,4 @@
+{"date":"27/09/24","teacherCode":"HW","assignmentCode":"ASCW02","assignmentText":"Simultaneous Equations"}
+{"date":"27/09/24","teacherCode":"EF","assignmentCode":"ASCW11","assignmentText":"Solving Trigonometric Equation"}
+{"date":"04/10/24","teacherCode":"HW","assignmentCode":"ASCW05","assignmentText":"Coordinate Geometry"}
+{"date":"04/10/24","teacherCode":"EF","assignmentCode":"ASCW12","assignmentText":"Trigonometric Identities"}
