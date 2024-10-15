@@ -1,62 +1,62 @@
 {"date":"20/09/24","teacherCode":"EF","assignmentCode":"ASCW01","assignmentText":"Surds, Indices and Quadratics"}
-{"date":"27/09/24","teacherCode":"HW","assignmentCode":"ASCW02","assignmentText":"Simultaneous Equations"}
 {"date":"27/09/24","teacherCode":"EF","assignmentCode":"ASCW11","assignmentText":"Solving Trigonometric Equation"}
-{"date":"04/10/24","teacherCode":"HW","assignmentCode":"ASCW05","assignmentText":"Coordinate Geometry"}
+{"date":"27/09/24","teacherCode":"HW","assignmentCode":"ASCW02","assignmentText":"Simultaneous Equations"}
 {"date":"04/10/24","teacherCode":"EF","assignmentCode":"ASCW12","assignmentText":"Trigonometric Identities"}
-{"date":"11/10/24","teacherCode":"HW","assignmentCode":"ASCW06","assignmentText":"Circle Geometry"}
+{"date":"04/10/24","teacherCode":"HW","assignmentCode":"ASCW05","assignmentText":"Coordinate Geometry"}
 {"date":"11/10/24","teacherCode":"EF","assignmentCode":"ASCW07","assignmentText":"Representing Data"}
-{"date":"18/10/24","teacherCode":"HW","assignmentCode":"ASCW15","assignmentText":"Vectors and Forces"}
+{"date":"11/10/24","teacherCode":"HW","assignmentCode":"ASCW06","assignmentText":"Circle Geometry"}
 {"date":"18/10/24","teacherCode":"EF","assignmentCode":"ASCW10","assignmentText":"Polynomials"}
-{"date":"25/10/24","teacherCode":"HW","assignmentCode":"ASCW08","assignmentText":"Kinematics 1"}
+{"date":"18/10/24","teacherCode":"HW","assignmentCode":"ASCW15","assignmentText":"Vectors and Forces"}
 {"date":"25/10/24","teacherCode":"EF","assignmentCode":"ASCW25","assignmentText":"Mixed Exam Questions"}
-{"date":"08/11/24","teacherCode":"HW","assignmentCode":"ASCW09","assignmentText":"Kinematics 2"}
+{"date":"25/10/24","teacherCode":"HW","assignmentCode":"ASCW08","assignmentText":"Kinematics 1"}
 {"date":"08/11/24","teacherCode":"EF","assignmentCode":"ASCW13","assignmentText":"Probability"}
-{"date":"15/11/24","teacherCode":"HW","assignmentCode":"ASCW14","assignmentText":"Graph Transformations"}
+{"date":"08/11/24","teacherCode":"HW","assignmentCode":"ASCW09","assignmentText":"Kinematics 2"}
 {"date":"15/11/24","teacherCode":"EF","assignmentCode":"ASCW17","assignmentText":"Binomial Expansion"}
-{"date":"22/11/24","teacherCode":"HW","assignmentCode":"ASCW19","assignmentText":"Differentiation 1"}
+{"date":"15/11/24","teacherCode":"HW","assignmentCode":"ASCW14","assignmentText":"Graph Transformations"}
 {"date":"22/11/24","teacherCode":"EF","assignmentCode":"ASCW18","assignmentText":"Binomial Distribution"}
-{"date":"29/11/24","teacherCode":"HW","assignmentCode":"ASCW20","assignmentText":"Differentiation 2"}
+{"date":"22/11/24","teacherCode":"HW","assignmentCode":"ASCW19","assignmentText":"Differentiation 1"}
 {"date":"29/11/24","teacherCode":"EF","assignmentCode":"ASCW22","assignmentText":"Integration"}
-{"date":"06/12/24","teacherCode":"HW","assignmentCode":"ASCW16","assignmentText":"Forces and Newtons Laws"}
+{"date":"29/11/24","teacherCode":"HW","assignmentCode":"ASCW20","assignmentText":"Differentiation 2"}
 {"date":"06/12/24","teacherCode":"EF","assignmentCode":"ASCW03","assignmentText":"Exponentials and Logs Part 1"}
-{"date":"13/12/24","teacherCode":"HW","assignmentCode":"ASCW23","assignmentText":"Variable Acceleration"}
+{"date":"06/12/24","teacherCode":"HW","assignmentCode":"ASCW16","assignmentText":"Forces and Newtons Laws"}
 {"date":"13/12/24","teacherCode":"EF","assignmentCode":"ASCW04","assignmentText":"Exponentials and Logs Part 2"}
-{"date":"20/12/24","teacherCode":"HW","assignmentCode":"ASCW25","assignmentText":"Catch Up"}
+{"date":"13/12/24","teacherCode":"HW","assignmentCode":"ASCW23","assignmentText":"Variable Acceleration"}
 {"date":"20/12/24","teacherCode":"EF","assignmentCode":"ASCW24","assignmentText":"Reduction to Linear"}
-{"date":"10/01/25","teacherCode":"HW","assignmentCode":"A2CW07","assignmentText":"Differentiation 1"}
+{"date":"20/12/24","teacherCode":"HW","assignmentCode":"ASCW25","assignmentText":"Catch Up"}
 {"date":"10/01/25","teacherCode":"EF","assignmentCode":"ASCW21","assignmentText":"Hypothesis Testing"}
 {"date":"10/01/25","teacherCode":"EF","assignmentCode":"2018/1","assignmentText":"2018 Paper 1"}
-{"date":"17/01/25","teacherCode":"HW","assignmentCode":"A2CW08","assignmentText":"Differentiation 2"}
+{"date":"10/01/25","teacherCode":"HW","assignmentCode":"A2CW07","assignmentText":"Differentiation 1"}
 {"date":"17/01/25","teacherCode":"EF","assignmentCode":"A2CW05","assignmentText":"Functions"}
 {"date":"17/01/25","teacherCode":"EF","assignmentCode":"2018/2","assignmentText":"2018 Paper 2"}
-{"date":"24/01/25","teacherCode":"HW","assignmentCode":"A2CW16","assignmentText":"Further Differentiation"}
+{"date":"17/01/25","teacherCode":"HW","assignmentCode":"A2CW08","assignmentText":"Differentiation 2"}
 {"date":"24/01/25","teacherCode":"EF","assignmentCode":"A2CW11","assignmentText":"Radians and Small Angles"}
 {"date":"24/01/25","teacherCode":"EF","assignmentCode":"2019/1","assignmentText":"2019 Paper 1"}
-{"date":"31/01/25","teacherCode":"HW","assignmentCode":"A2CW15","assignmentText":"Binomial Expansion"}
+{"date":"24/01/25","teacherCode":"HW","assignmentCode":"A2CW16","assignmentText":"Further Differentiation"}
 {"date":"31/01/25","teacherCode":"EF","assignmentCode":"A2CW12","assignmentText":"Trig Functions"}
 {"date":"31/01/25","teacherCode":"EF","assignmentCode":"2019/2","assignmentText":"2019 Paper 2"}
-{"date":"07/02/25","teacherCode":"HW","assignmentCode":"A2CW04","assignmentText":"Partial Fractions"}
+{"date":"31/01/25","teacherCode":"HW","assignmentCode":"A2CW15","assignmentText":"Binomial Expansion"}
 {"date":"07/02/25","teacherCode":"EF","assignmentCode":"A2CW13","assignmentText":"Trig Identities"}
 {"date":"07/02/25","teacherCode":"EF","assignmentCode":"2020/1","assignmentText":"2020 Paper 1"}
-{"date":"14/02/25","teacherCode":"HW","assignmentCode":"A2CW09","assignmentText":"Resolving Forces"}
+{"date":"07/02/25","teacherCode":"HW","assignmentCode":"A2CW04","assignmentText":"Partial Fractions"}
 {"date":"14/02/25","teacherCode":"EF","assignmentCode":"A2CW02","assignmentText":"Probability"}
 {"date":"14/02/25","teacherCode":"EF","assignmentCode":"2020/2","assignmentText":"2020 Paper 2"}
-{"date":"28/02/25","teacherCode":"HW","assignmentCode":"A2CW10","assignmentText":"Force and Motion"}
+{"date":"14/02/25","teacherCode":"HW","assignmentCode":"A2CW09","assignmentText":"Resolving Forces"}
 {"date":"28/02/25","teacherCode":"EF","assignmentCode":"A2CW18","assignmentText":"Integration Part 1"}
 {"date":"28/02/25","teacherCode":"EF","assignmentCode":"2021/1","assignmentText":"2021 Paper 1"}
-{"date":"07/03/25","teacherCode":"HW","assignmentCode":"A2CW17","assignmentText":"Moments and Friction"}
+{"date":"28/02/25","teacherCode":"HW","assignmentCode":"A2CW10","assignmentText":"Force and Motion"}
 {"date":"07/03/25","teacherCode":"EF","assignmentCode":"A2CW19","assignmentText":"Integration Part 2"}
 {"date":"07/03/25","teacherCode":"EF","assignmentCode":"2021/2","assignmentText":"2021 Paper 2"}
-{"date":"14/03/25","teacherCode":"HW","assignmentCode":"A2CW01","assignmentText":"Numerical Methods"}
+{"date":"07/03/25","teacherCode":"HW","assignmentCode":"A2CW17","assignmentText":"Moments and Friction"}
 {"date":"14/03/25","teacherCode":"EF","assignmentCode":"A2CW20","assignmentText":"Integration Part 3"}
 {"date":"14/03/25","teacherCode":"EF","assignmentCode":"2022/1","assignmentText":"2022 Paper 1"}
-{"date":"21/03/25","teacherCode":"HW","assignmentCode":"A2CW22","assignmentText":"Parametric Equations"}
+{"date":"14/03/25","teacherCode":"HW","assignmentCode":"A2CW01","assignmentText":"Numerical Methods"}
 {"date":"21/03/25","teacherCode":"EF","assignmentCode":"A2CW14","assignmentText":"Normal Distribution"}
 {"date":"21/03/25","teacherCode":"EF","assignmentCode":"2022/2","assignmentText":"2022 Paper 2"}
-{"date":"28/03/25","teacherCode":"HW","assignmentCode":"A2CW03","assignmentText":"Vectors and Kinematics"}
+{"date":"21/03/25","teacherCode":"HW","assignmentCode":"A2CW22","assignmentText":"Parametric Equations"}
 {"date":"28/03/25","teacherCode":"EF","assignmentCode":"A2CW21","assignmentText":"Hypothesis Testing"}
 {"date":"28/03/25","teacherCode":"EF","assignmentCode":"2023/1","assignmentText":"2023 Paper 1"}
-{"date":"04/04/25","teacherCode":"HW","assignmentCode":"A2CW06","assignmentText":"Sequences and Series"}
+{"date":"28/03/25","teacherCode":"HW","assignmentCode":"A2CW03","assignmentText":"Vectors and Kinematics"}
 {"date":"04/04/25","teacherCode":"EF","assignmentCode":"A2CW24","assignmentText":"Differential Equations"}
 {"date":"04/04/25","teacherCode":"EF","assignmentCode":"2023/2","assignmentText":"2023 Paper 2"}
+{"date":"04/04/25","teacherCode":"HW","assignmentCode":"A2CW06","assignmentText":"Sequences and Series"}
 {"date":"11/04/25","teacherCode":"HW","assignmentCode":"A2CW23","assignmentText":"Projectiles and Proof"}

@@ -404,9 +404,9 @@ namespace Maths_Schedule
                 int teacherComparison = string.Compare(teacherCodeX, teacherCodeY);
                 if (teacherComparison != 0)
                 {
-                    // Ensure "HW" comes before "EF"
-                    if (teacherCodeX == "HW") return -1;
-                    if (teacherCodeX == "EF") return 1;
+                    // Ensure "EF" comes before "HW"
+                    if (teacherCodeX == "EF") return -1;
+                    if (teacherCodeX == "HW") return 1;
                 }
 
                 // If the teacher codes are also the same, compare the assignment codes
