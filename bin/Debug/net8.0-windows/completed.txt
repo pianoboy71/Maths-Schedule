@@ -1,0 +1,21 @@
+{"date":"20/09/24","teacherCode":"EF","assignmentCode":"ASCW01","assignmentText":"Surds, Indices and Quadratics"}
+{"date":"27/09/24","teacherCode":"EF","assignmentCode":"ASCW11","assignmentText":"Solving Trigonometric Equation"}
+{"date":"27/09/24","teacherCode":"HW","assignmentCode":"ASCW02","assignmentText":"Simultaneous Equations"}
+{"date":"04/10/24","teacherCode":"EF","assignmentCode":"ASCW12","assignmentText":"Trigonometric Identities"}
+{"date":"04/10/24","teacherCode":"HW","assignmentCode":"ASCW05","assignmentText":"Coordinate Geometry"}
+{"date":"11/10/24","teacherCode":"EF","assignmentCode":"ASCW07","assignmentText":"Representing Data"}
+{"date":"11/10/24","teacherCode":"HW","assignmentCode":"ASCW06","assignmentText":"Circle Geometry"}
+{"date":"18/10/24","teacherCode":"EF","assignmentCode":"ASCW10","assignmentText":"Polynomials"}
+{"date":"18/10/24","teacherCode":"HW","assignmentCode":"ASCW15","assignmentText":"Vectors and Forces"}
+{"date":"25/10/24","teacherCode":"EF","assignmentCode":"ASCW25","assignmentText":"Mixed Exam Questions"}
+{"date":"25/10/24","teacherCode":"HW","assignmentCode":"ASCW08","assignmentText":"Kinematics 1"}
+{"date":"08/11/24","teacherCode":"EF","assignmentCode":"ASCW13","assignmentText":"Probability"}
+{"date":"08/11/24","teacherCode":"HW","assignmentCode":"ASCW09","assignmentText":"Kinematics 2"}
+{"date":"15/11/24","teacherCode":"EF","assignmentCode":"ASCW17","assignmentText":"Binomial Expansion"}
+{"date":"15/11/24","teacherCode":"HW","assignmentCode":"ASCW14","assignmentText":"Graph Transformations"}
+{"date":"22/11/24","teacherCode":"EF","assignmentCode":"ASCW18","assignmentText":"Binomial Distribution"}
+{"date":"22/11/24","teacherCode":"HW","assignmentCode":"ASCW19","assignmentText":"Differentiation 1"}
+{"date":"29/11/24","teacherCode":"EF","assignmentCode":"ASCW22","assignmentText":"Integration"}
+{"date":"29/11/24","teacherCode":"HW","assignmentCode":"ASCW20","assignmentText":"Differentiation 2"}
+{"date":"06/12/24","teacherCode":"EF","assignmentCode":"ASCW03","assignmentText":"Exponentials and Logs Part 1"}
+{"date":"06/12/24","teacherCode":"HW","assignmentCode":"ASCW16","assignmentText":"Forces and Newtons Laws"}
