@@ -1,4 +1,4 @@
-# Maths Schedule for EN Further Maths students in Year 1
+# Maths Schedule for EN Further Maths students in Year 1 (Windows only)
 ## What is this?
 This is a small program I created with C# Winforms to keep track of all the assignments for us.
 I have rolled it back so that it shows no assignments as completed, including the first one for Ella's class as our first assignment.
