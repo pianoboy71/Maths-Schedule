@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\Maths Schedule.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\Maths Schedule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\Maths Schedule.csproj": {
+    "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\Maths Schedule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\Maths Schedule.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\Maths Schedule.csproj",
         "projectName": "Maths Schedule",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\Maths Schedule.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\Maths Schedule.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

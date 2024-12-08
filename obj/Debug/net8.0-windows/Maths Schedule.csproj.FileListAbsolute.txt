@@ -34,3 +34,21 @@ C:\Users\Admin\Desktop\Maths Schedule github repo\obj\Debug\net8.0-windows\refin
 C:\Users\Admin\Desktop\Maths Schedule github repo\obj\Debug\net8.0-windows\Maths Schedule.pdb
 C:\Users\Admin\Desktop\Maths Schedule github repo\obj\Debug\net8.0-windows\Maths Schedule.genruntimeconfig.cache
 C:\Users\Admin\Desktop\Maths Schedule github repo\obj\Debug\net8.0-windows\ref\Maths Schedule.dll
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\bin\Debug\net8.0-windows\Maths Schedule.exe
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\bin\Debug\net8.0-windows\Maths Schedule.deps.json
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\bin\Debug\net8.0-windows\Maths Schedule.runtimeconfig.json
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\bin\Debug\net8.0-windows\Maths Schedule.dll
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\bin\Debug\net8.0-windows\Maths Schedule.pdb
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\obj\Debug\net8.0-windows\Maths_Schedule.Add.resources
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\obj\Debug\net8.0-windows\Maths_Schedule.MainPage.resources
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\obj\Debug\net8.0-windows\Maths Schedule.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\obj\Debug\net8.0-windows\Maths Schedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\obj\Debug\net8.0-windows\Maths Schedule.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\obj\Debug\net8.0-windows\Maths Schedule.AssemblyInfo.cs
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\obj\Debug\net8.0-windows\Maths Schedule.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\obj\Debug\net8.0-windows\Maths Schedule.sourcelink.json
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\obj\Debug\net8.0-windows\Maths Schedule.dll
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\obj\Debug\net8.0-windows\refint\Maths Schedule.dll
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\obj\Debug\net8.0-windows\Maths Schedule.pdb
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\obj\Debug\net8.0-windows\Maths Schedule.genruntimeconfig.cache
+C:\Users\Admin\Desktop\repos\Maths Schedule github repo\obj\Debug\net8.0-windows\ref\Maths Schedule.dll

@@ -113,7 +113,7 @@ namespace Maths_Schedule
             try
             {
                 Sort(lstRemaining);
-                Sort(lstCompleted);
+                Sort(lstCompleted, true);
                 string text = lstRemaining.Items[0].ToString();
                 lblNext.Text = $"{text.Substring(12, 6)}: {text.Substring(20)}, due in to {((text.Substring(9, 2) == "HW") ? "Harley" : "Ella")} on {text.Substring(0, 8)}";
             }
@@ -142,7 +142,7 @@ namespace Maths_Schedule
                     try
                     {
                         Sort(lstRemaining);
-                        Sort(lstCompleted);
+                        Sort(lstCompleted, true);
                         string text = lstRemaining.Items[0].ToString();
                         lblNext.Text = $"{text.Substring(12, 6)}: {text.Substring(20)}, due in to {((text.Substring(9, 2) == "HW") ? "Harley" : "Ella")} on {text.Substring(0, 8)}";
                     }
@@ -158,7 +158,7 @@ namespace Maths_Schedule
                     try
                     {
                         Sort(lstRemaining);
-                        Sort(lstCompleted);
+                        Sort(lstCompleted, true);
                         string text = lstRemaining.Items[0].ToString();
                         lblNext.Text = $"{text.Substring(12, 6)}: {text.Substring(20)}, due in to {((text.Substring(9, 2) == "HW") ? "Harley" : "Ella")} on {text.Substring(0, 8)}";
                     }
@@ -190,7 +190,7 @@ namespace Maths_Schedule
                     try
                     {
                         Sort(lstRemaining);
-                        Sort(lstCompleted);
+                        Sort(lstCompleted, true);
                         string text = lstRemaining.Items[0].ToString();
                         lblNext.Text = $"{text.Substring(12, 6)}: {text.Substring(20)}, due in to {((text.Substring(9, 2) == "HW") ? "Harley" : "Ella")} on {text.Substring(0, 8)}";
                     }
@@ -205,7 +205,7 @@ namespace Maths_Schedule
                     try
                     {
                         Sort(lstRemaining);
-                        Sort(lstCompleted);
+                        Sort(lstCompleted, true);
                         string text = lstRemaining.Items[0].ToString();
                         lblNext.Text = $"{text.Substring(12, 6)}: {text.Substring(20)}, due in to {((text.Substring(9, 2) == "HW") ? "Harley" : "Ella")} on {text.Substring(0, 8)}";
                     }
@@ -276,7 +276,7 @@ namespace Maths_Schedule
                 try
                 {
                     Sort(lstRemaining);
-                    Sort(lstCompleted);
+                    Sort(lstCompleted, true);
                     string text = lstRemaining.Items[0].ToString();
                     lblNext.Text = $"{text.Substring(12, 6)}: {text.Substring(20)}, due in to {((text.Substring(9, 2) == "HW") ? "Harley" : "Ella")} on {text.Substring(0, 8)}";
                 }
@@ -291,7 +291,7 @@ namespace Maths_Schedule
                 try
                 {
                     Sort(lstRemaining);
-                    Sort(lstCompleted);
+                    Sort(lstCompleted, true);
                     string text = lstRemaining.Items[0].ToString();
                     lblNext.Text = $"{text.Substring(12, 6)}: {text.Substring(20)}, due in to {((text.Substring(9, 2) == "HW") ? "Harley" : "Ella")} on {text.Substring(0, 8)}";
                 }
@@ -312,7 +312,7 @@ namespace Maths_Schedule
                 try
                 {
                     Sort(lstRemaining);
-                    Sort(lstCompleted);
+                    Sort(lstCompleted, true);
                     string text = lstRemaining.Items[0].ToString();
                     lblNext.Text = $"{text.Substring(12, 6)}: {text.Substring(20)}, due in to {((text.Substring(9, 2) == "HW") ? "Harley" : "Ella")} on {text.Substring(0, 8)}";
                 }
@@ -372,7 +372,7 @@ namespace Maths_Schedule
             _assignmentsRemaining.Add(item);
         }
 
-        private void Sort(ListBox list)
+        private void Sort(ListBox list, bool reverse = false)
         {
             List<string> items = new List<string>();
 
@@ -426,6 +426,10 @@ namespace Maths_Schedule
 
             // Clear the list and re-add the sorted items
             list.Items.Clear();
+            if (reverse)
+            {
+                items.Reverse();
+            }
             foreach (string item in items)
             {
                 list.Items.Add(item);

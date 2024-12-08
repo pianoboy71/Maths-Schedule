@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Maths Schedule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2d68d82ca40e7398c66f06fa183c1cdc666ce5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5177ae9955be2e012add9ae770637f0b41a9db43")]
 [assembly: System.Reflection.AssemblyProductAttribute("Maths Schedule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Maths Schedule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

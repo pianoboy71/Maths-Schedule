@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|c:\\users\\admin\\desktop\\maths schedule github repo\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|c:\\users\\admin\\desktop\\repos\\maths schedule github repo\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|c:\\users\\admin\\desktop\\maths schedule github repo\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|c:\\users\\admin\\desktop\\repos\\maths schedule github repo\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|solutionrelative:mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|c:\\users\\admin\\desktop\\maths schedule github repo\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|c:\\users\\admin\\desktop\\repos\\maths schedule github repo\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|solutionrelative:add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|solutionrelative:add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|c:\\users\\admin\\desktop\\maths schedule github repo\\add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|c:\\users\\admin\\desktop\\repos\\maths schedule github repo\\add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E2459E4-F385-4B96-ABE6-8EFA5A59FBE6}|Maths Schedule.csproj|solutionrelative:add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,19 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainPage.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\MainPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\MainPage.Designer.cs",
               "RelativeDocumentMoniker": "MainPage.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\MainPage.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\MainPage.Designer.cs",
               "RelativeToolTip": "MainPage.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainPage.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\MainPage.cs",
               "RelativeDocumentMoniker": "MainPage.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\MainPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\MainPage.cs",
               "RelativeToolTip": "MainPage.cs",
-              "ViewState": "AgIAAIEBAAAAAAAAAAAAwJgBAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAGIBAAAAAAAAAMBAwHYBAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T19:31:13.023Z",
               "EditorCaption": ""
@@ -69,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Add.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\Add.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\Add.Designer.cs",
               "RelativeDocumentMoniker": "Add.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\Add.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\Add.Designer.cs",
               "RelativeToolTip": "Add.Designer.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAUwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Add.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\Add.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\Add.cs",
               "RelativeDocumentMoniker": "Add.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\Add.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\Add.cs",
               "RelativeToolTip": "Add.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAkwCQAAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,10 +90,10 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Add.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\Add.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\Add.cs",
               "RelativeDocumentMoniker": "Add.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\coding stuffs\\vs projects\\source\\repos\\Maths Schedule\\Add.cs [Design]",
-              "RelativeToolTip": "..\\coding stuffs\\vs projects\\source\\repos\\Maths Schedule\\Add.cs [Design]",
+              "RelativeToolTip": "..\\..\\coding stuffs\\vs projects\\source\\repos\\Maths Schedule\\Add.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T19:12:02.859Z"
             },
@@ -105,10 +101,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Maths Schedule github repo\\MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\repos\\Maths Schedule github repo\\MainPage.cs",
               "RelativeDocumentMoniker": "MainPage.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\coding stuffs\\vs projects\\source\\repos\\Maths Schedule\\MainPage.cs [Design]",
-              "RelativeToolTip": "..\\coding stuffs\\vs projects\\source\\repos\\Maths Schedule\\MainPage.cs [Design]",
+              "RelativeToolTip": "..\\..\\coding stuffs\\vs projects\\source\\repos\\Maths Schedule\\MainPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T17:18:28.583Z"
             }
