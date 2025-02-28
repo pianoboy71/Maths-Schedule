@@ -1,25 +1,3 @@
-{"date":"13/12/24","teacherCode":"EF","assignmentCode":"ASCW04","assignmentText":"Exponentials and Logs Part 2"}
-{"date":"13/12/24","teacherCode":"HW","assignmentCode":"ASCW23","assignmentText":"Variable Acceleration"}
-{"date":"20/12/24","teacherCode":"EF","assignmentCode":"ASCW24","assignmentText":"Reduction to Linear"}
-{"date":"20/12/24","teacherCode":"HW","assignmentCode":"ASCW25","assignmentText":"Catch Up"}
-{"date":"10/01/25","teacherCode":"EF","assignmentCode":"ASCW21","assignmentText":"Hypothesis Testing"}
-{"date":"10/01/25","teacherCode":"EF","assignmentCode":"2018/1","assignmentText":"2018 Paper 1"}
-{"date":"10/01/25","teacherCode":"HW","assignmentCode":"A2CW07","assignmentText":"Differentiation 1"}
-{"date":"17/01/25","teacherCode":"EF","assignmentCode":"A2CW05","assignmentText":"Functions"}
-{"date":"17/01/25","teacherCode":"EF","assignmentCode":"2018/2","assignmentText":"2018 Paper 2"}
-{"date":"17/01/25","teacherCode":"HW","assignmentCode":"A2CW08","assignmentText":"Differentiation 2"}
-{"date":"24/01/25","teacherCode":"EF","assignmentCode":"A2CW11","assignmentText":"Radians and Small Angles"}
-{"date":"24/01/25","teacherCode":"EF","assignmentCode":"2019/1","assignmentText":"2019 Paper 1"}
-{"date":"24/01/25","teacherCode":"HW","assignmentCode":"A2CW16","assignmentText":"Further Differentiation"}
-{"date":"31/01/25","teacherCode":"EF","assignmentCode":"A2CW12","assignmentText":"Trig Functions"}
-{"date":"31/01/25","teacherCode":"EF","assignmentCode":"2019/2","assignmentText":"2019 Paper 2"}
-{"date":"31/01/25","teacherCode":"HW","assignmentCode":"A2CW15","assignmentText":"Binomial Expansion"}
-{"date":"07/02/25","teacherCode":"EF","assignmentCode":"A2CW13","assignmentText":"Trig Identities"}
-{"date":"07/02/25","teacherCode":"EF","assignmentCode":"2020/1","assignmentText":"2020 Paper 1"}
-{"date":"07/02/25","teacherCode":"HW","assignmentCode":"A2CW04","assignmentText":"Partial Fractions"}
-{"date":"14/02/25","teacherCode":"EF","assignmentCode":"A2CW02","assignmentText":"Probability"}
-{"date":"14/02/25","teacherCode":"EF","assignmentCode":"2020/2","assignmentText":"2020 Paper 2"}
-{"date":"14/02/25","teacherCode":"HW","assignmentCode":"A2CW09","assignmentText":"Resolving Forces"}
 {"date":"28/02/25","teacherCode":"EF","assignmentCode":"A2CW18","assignmentText":"Integration Part 1"}
 {"date":"28/02/25","teacherCode":"EF","assignmentCode":"2021/1","assignmentText":"2021 Paper 1"}
 {"date":"28/02/25","teacherCode":"HW","assignmentCode":"A2CW10","assignmentText":"Force and Motion"}
