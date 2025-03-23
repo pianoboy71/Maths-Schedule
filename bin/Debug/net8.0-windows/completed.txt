@@ -1,3 +1,15 @@
+{"date":"21/03/25","teacherCode":"HW","assignmentCode":"A2CW22","assignmentText":"Parametric Equations"}
+{"date":"21/03/25","teacherCode":"EF","assignmentCode":"2022/2","assignmentText":"2022 Paper 2"}
+{"date":"21/03/25","teacherCode":"EF","assignmentCode":"A2CW14","assignmentText":"Normal Distribution"}
+{"date":"14/03/25","teacherCode":"HW","assignmentCode":"A2CW01","assignmentText":"Numerical Methods"}
+{"date":"14/03/25","teacherCode":"EF","assignmentCode":"2022/1","assignmentText":"2022 Paper 1"}
+{"date":"14/03/25","teacherCode":"EF","assignmentCode":"A2CW20","assignmentText":"Integration Part 3"}
+{"date":"07/03/25","teacherCode":"HW","assignmentCode":"A2CW17","assignmentText":"Moments and Friction"}
+{"date":"07/03/25","teacherCode":"EF","assignmentCode":"2021/2","assignmentText":"2021 Paper 2"}
+{"date":"07/03/25","teacherCode":"EF","assignmentCode":"A2CW19","assignmentText":"Integration Part 2"}
+{"date":"28/02/25","teacherCode":"HW","assignmentCode":"A2CW10","assignmentText":"Force and Motion"}
+{"date":"28/02/25","teacherCode":"EF","assignmentCode":"2021/1","assignmentText":"2021 Paper 1"}
+{"date":"28/02/25","teacherCode":"EF","assignmentCode":"A2CW18","assignmentText":"Integration Part 1"}
 {"date":"14/02/25","teacherCode":"HW","assignmentCode":"A2CW09","assignmentText":"Resolving Forces"}
 {"date":"14/02/25","teacherCode":"EF","assignmentCode":"2020/2","assignmentText":"2020 Paper 2"}
 {"date":"14/02/25","teacherCode":"EF","assignmentCode":"A2CW02","assignmentText":"Probability"}
